@@ -88,10 +88,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : #"google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     #tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
-    anonymize_ip         : true
+    anonymize_ip         : #true
 
 
 # Site Author
@@ -189,15 +189,15 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  #recipes:
+    #output: true
+    #permalink: /:collection/:path/
+  #pets:
+    #output: true
+    #permalink: /:collection/:path/
+  #portfolio:
+    #output: true
+    #permalink: /:collection/:path/
 
 
 # Defaults
@@ -270,7 +270,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
