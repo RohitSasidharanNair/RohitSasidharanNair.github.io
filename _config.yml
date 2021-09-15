@@ -275,5 +275,3 @@ defaults:
     values:
       layout: single
       
-plugins:
-  - jekyll-pdf-embed
