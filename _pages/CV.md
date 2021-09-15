@@ -3,5 +3,11 @@ layout: single
 classes: wide
 permalink: /
 ---
-
-{% pdf "/assets/CV.pdf" no_link %}
+<html>
+  <head>
+  </head>
+  <body>
+    <iframe src="/assets/CV.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
