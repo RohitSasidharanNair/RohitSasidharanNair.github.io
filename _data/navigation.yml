@@ -5,4 +5,5 @@ main:
   - title: "Publications"
     url: /_pages/
   - title: "CV"
-    url: /_pages/cv
+    url: /assets/PDFs/CV_Rohit.pdf
+    #url: /_pages/cv
