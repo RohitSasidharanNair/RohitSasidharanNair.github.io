@@ -112,13 +112,12 @@ author:
 
   email            : #"achael@cfa.harvard.edu"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/RohitSasidharanNair"
+    #- label: "GitHub"
+      #icon: "fab fa-fw fa-github"
+      #url: "https://github.com/RohitSasidharanNair"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
      # url: "https://twitter.com/thisgreyspirit"
-
 
 #footer:
 #  links:
@@ -275,3 +274,6 @@ defaults:
       type: "pages" 
     values:
       layout: single
+      
+plugins:
+  - jekyll-pdf-embed
