@@ -10,6 +10,6 @@ author_profile: true
 ---
 <html>
   <body>
-    <p>CV <a href="/assets/CV_Rohit.pdf">link</a>.</p>
+    <p>CV <a href="/assets/PDFs/CV_Rohit.pdf">link</a>.</p>
   </body>
 </html>
