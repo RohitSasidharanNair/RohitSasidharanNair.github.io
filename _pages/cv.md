@@ -8,4 +8,8 @@ title: Curriculum Vitae
 author_profile: true
 
 ---
-Download
+<html>
+  <body>
+    <p>CV <a href="/assets/CV.pdf">link</a>.</p>
+  </body>
+</html>
